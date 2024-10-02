@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@ping.be",
+            "first_name": "Janet",
+            "last_name": "Weaver"
+        },
+        {
+            "id": 3,
+            "email": "eve.holt@request.com",
+            "first_name": "Eve",
+            "last_name": "Holt"
+        },
+        {
+            "id": 4,
+            "email": "charles.morris@idaho.org",
+            "first_name": "Charles",
+            "last_name": "Morris"
+        },
+        {
+            "id": 5,
+            "email": "tracey.ramos@google.com",
+            "first_name": "Tracey",
+            "last_name": "Ramos"
+        }
+    ]
+}
